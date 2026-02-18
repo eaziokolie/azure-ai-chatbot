@@ -1,0 +1,5 @@
+pymongo
+flask
+openai
+python-dotenv
+gunicorn
